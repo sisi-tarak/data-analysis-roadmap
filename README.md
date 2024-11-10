@@ -45,7 +45,7 @@ Unlock your path to becoming a data analyst in just **100 days**! This roadmap c
 #### Days 16-20: SQL Basics
 - **Day 16:** Learn SQL fundamentals (SELECT, WHERE clauses).
 - **Day 17:** Practice filtering data in SQL.
-- **Day 18:** Understand GROUP BY, Date, Time and aggregate functions.
+- **Day 18:** Understand GROUP BY, Date and Time and aggregate functions.
 - **Day 19:** Work with JOINs in SQL.
 - **Day 20:** Complete a **Mini-project**: Analyze data using SQL queries.
 
